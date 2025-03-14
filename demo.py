@@ -1,4 +1,4 @@
 print("Hello")
 print("Welcome to Telusko")
 
-print("Hello from naveen)
+print("Hello from naveen")
